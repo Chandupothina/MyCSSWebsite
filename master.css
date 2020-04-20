@@ -1,0 +1,116 @@
+.top-container
+{
+  padding-top: 100px;
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+body
+{
+  /* way to make a text center in a webpage    using margin:0;   text-align:center*/
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+
+
+h1
+{
+  font-size: 5rem;
+  margin-top: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  line-height: 0;
+  padding-bottom: 10px;
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr
+{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+
+
+.top-cloud
+{
+  position: absolute;
+  top: 40px;
+  right: 250px;
+
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+
+}
+
+.middle-container
+{
+  margin: 100px 0 100px 0;
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+
+}
+
+a
+{
+  color: #11999E;
+  font-family: Helvetica;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: white;
+
+}
+
+
+p
+{
+  line-height: 2;
+}
+
+.btn
+{
+  padding: 25px;
+  font-size: 16px;
+  border-radius: 10px;
+  text-align: center;
+  list-style: none;
+  background: #11999E;
+  color: #bdaeae;
+  text-decoration: none;
+}
+
+.btn:hover
+{
+  background: #0cdde4;
+  color: red;
+}
